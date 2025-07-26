@@ -1,0 +1,201 @@
+﻿Model ID;Model Name;Brand;Body Type;Transmission
+1;ILX;Acura;Sedan;Automatic
+2;TSX;Acura;Sedan;Automatic
+3;TL;Acura;Sedan;Automatic
+4;TLX;Acura;Sedan;Automatic
+5;MDX;Acura;SUV;Automatic
+6;RDX;Acura;SUV;Automatic
+7;NSX;Acura;Coupe;Automatic
+8;Integra;Acura;Hatchback;Manual
+9;TT;Audi;Coupe;Automatic
+10;A3;Audi;Sedan;Automatic
+11;A4;Audi;Sedan;Automatic
+12;A5;Audi;Coupe;Automatic
+13;A6;Audi;Sedan;Automatic
+14;A7;Audi;Sportback;Automatic
+15;A8;Audi;Sedan;Automatic
+16;Q3;Audi;SUV;Automatic
+17;Q5;Audi;SUV;Automatic
+18;Q7;Audi;SUV;Automatic
+19;Q8;Audi;SUV;Automatic
+20;R8;Audi;Coupe;Manual
+21;e-tron;Audi;SUV;Automatic
+22;RS 5;Audi;Coupe;Automatic
+23;S4;Audi;Sedan;Manual
+24;320i;BMW;Sedan;Automatic
+25;330i;BMW;Sedan;Automatic
+26;530i;BMW;Sedan;Automatic
+27;740i;BMW;Sedan;Automatic
+28;X1;BMW;SUV;Automatic
+29;X3;BMW;SUV;Automatic
+30;X5;BMW;SUV;Automatic
+31;X7;BMW;SUV;Automatic
+32;M3;BMW;Sedan;Manual
+33;M4;BMW;Coupe;Manual
+34;Z4;BMW;Roadster;Automatic
+35;i3;BMW;Hatchback;Automatic
+36;i8;BMW;Coupe;Automatic
+37;Civic;Honda;Sedan;Automatic
+38;Accord;Honda;Sedan;Automatic
+39;CR-V;Honda;SUV;Automatic
+40;HR-V;Honda;SUV;Automatic
+41;Pilot;Honda;SUV;Automatic
+42;Passport;Honda;SUV;Automatic
+43;Ridgeline;Honda;Pickup;Automatic
+44;Odyssey;Honda;Minivan;Automatic
+45;Clarity;Honda;Sedan;Automatic
+46;Corolla;Toyota;Sedan;Automatic
+47;Camry;Toyota;Sedan;Automatic
+48;RAV4;Toyota;SUV;Automatic
+49;Highlander;Toyota;SUV;Automatic
+50;4Runner;Toyota;SUV;Automatic
+51;Tacoma;Toyota;Pickup;Automatic
+52;Tundra;Toyota;Pickup;Automatic
+53;Sienna;Toyota;Minivan;Automatic
+54;Prius;Toyota;Hatchback;Automatic
+55;Supra;Toyota;Coupe;Manual
+56;CX-5;Mazda;SUV;Automatic
+57;CX-9;Mazda;SUV;Automatic
+58;Mazda3;Mazda;Sedan;Automatic
+59;Mazda6;Mazda;Sedan;Automatic
+60;MX-5 Miata;Mazda;Roadster;Manual
+61;C-Class;Mercedes-Benz;Sedan;Automatic
+62;E-Class;Mercedes-Benz;Sedan;Automatic
+63;S-Class;Mercedes-Benz;Sedan;Automatic
+64;GLC;Mercedes-Benz;SUV;Automatic
+65;GLE;Mercedes-Benz;SUV;Automatic
+66;GLS;Mercedes-Benz;SUV;Automatic
+67;A-Class;Mercedes-Benz;Sedan;Automatic
+68;CLA;Mercedes-Benz;Coupe;Automatic
+69;AMG GT;Mercedes-Benz;Coupe;Automatic
+70;Outback;Subaru;Wagon;Automatic
+71;Forester;Subaru;SUV;Automatic
+72;Impreza;Subaru;Sedan;Automatic
+73;Legacy;Subaru;Sedan;Automatic
+74;Crosstrek;Subaru;SUV;Automatic
+75;WRX;Subaru;Sedan;Manual
+76;BRZ;Subaru;Coupe;Manual
+77;Ascent;Subaru;SUV;Automatic
+78;Golf;Volkswagen;Hatchback;Automatic
+79;Jetta;Volkswagen;Sedan;Automatic
+80;Passat;Volkswagen;Sedan;Automatic
+81;Tiguan;Volkswagen;SUV;Automatic
+82;Atlas;Volkswagen;SUV;Automatic
+83;Arteon;Volkswagen;Sedan;Automatic
+84;ID.4;Volkswagen;SUV;Automatic
+85;Mustang;Ford;Coupe;Manual
+86;F-150;Ford;Pickup;Automatic
+87;Escape;Ford;SUV;Automatic
+88;Explorer;Ford;SUV;Automatic
+89;Bronco;Ford;SUV;Automatic
+90;Ranger;Ford;Pickup;Automatic
+91;Edge;Ford;SUV;Automatic
+92;Silverado;Chevrolet;Pickup;Automatic
+93;Equinox;Chevrolet;SUV;Automatic
+94;Traverse;Chevrolet;SUV;Automatic
+95;Tahoe;Chevrolet;SUV;Automatic
+96;Suburban;Chevrolet;SUV;Automatic
+97;Camaro;Chevrolet;Coupe;Manual
+98;Corvette;Chevrolet;Coupe;Automatic
+99;Bolt;Chevrolet;Hatchback;Automatic
+100;Blazer;Chevrolet;SUV;Automatic
+101;Wrangler;Jeep;SUV;Automatic
+102;Grand Cherokee;Jeep;SUV;Automatic
+103;Cherokee;Jeep;SUV;Automatic
+104;Compass;Jeep;SUV;Automatic
+105;Renegade;Jeep;SUV;Automatic
+106;Gladiator;Jeep;Pickup;Automatic
+107;Model 3;Tesla;Sedan;Automatic
+108;Model S;Tesla;Sedan;Automatic
+109;Model X;Tesla;SUV;Automatic
+110;Model Y;Tesla;SUV;Automatic
+111;Cybertruck;Tesla;Pickup;Automatic
+112;Roadster;Tesla;Roadster;Automatic
+113;Elantra;Hyundai;Sedan;Automatic
+114;Sonata;Hyundai;Sedan;Automatic
+115;Tucson;Hyundai;SUV;Automatic
+116;Santa Fe;Hyundai;SUV;Automatic
+117;Kona;Hyundai;SUV;Automatic
+118;Palisade;Hyundai;SUV;Automatic
+119;Venue;Hyundai;SUV;Automatic
+120;Nexo;Hyundai;SUV;Automatic
+121;Veloster;Hyundai;Hatchback;Manual
+122;Forte;Kia;Sedan;Automatic
+123;Optima;Kia;Sedan;Automatic
+124;Sorento;Kia;SUV;Automatic
+125;Sportage;Kia;SUV;Automatic
+126;Telluride;Kia;SUV;Automatic
+127;Soul;Kia;Hatchback;Automatic
+128;Stinger;Kia;Sedan;Automatic
+129;Seltos;Kia;SUV;Automatic
+130;Rio;Kia;Sedan;Automatic
+131;911;Porsche;Coupe;Manual
+132;Cayenne;Porsche;SUV;Automatic
+133;Macan;Porsche;SUV;Automatic
+134;Panamera;Porsche;Sportback;Automatic
+135;Taycan;Porsche;Sedan;Automatic
+136;718 Boxster;Porsche;Roadster;Manual
+137;718 Cayman;Porsche;Coupe;Manual
+138;XC40;Volvo;SUV;Automatic
+139;XC60;Volvo;SUV;Automatic
+140;XC90;Volvo;SUV;Automatic
+141;S60;Volvo;Sedan;Automatic
+142;V60;Volvo;Wagon;Automatic
+143;V90;Volvo;Wagon;Automatic
+144;C40 Recharge;Volvo;SUV;Automatic
+145;Altima;Nissan;Sedan;Automatic
+146;Maxima;Nissan;Sedan;Automatic
+147;Rogue;Nissan;SUV;Automatic
+148;Murano;Nissan;SUV;Automatic
+149;Pathfinder;Nissan;SUV;Automatic
+150;Armada;Nissan;SUV;Automatic
+151;Frontier;Nissan;Pickup;Automatic
+152;Titan;Nissan;Pickup;Automatic
+153;Kicks;Nissan;SUV;Automatic
+154;Leaf;Nissan;Hatchback;Automatic
+155;370Z;Nissan;Coupe;Manual
+156;GT-R;Nissan;Coupe;Automatic
+157;Wrangler 4xe;Jeep;SUV;Automatic
+158;Grand Cherokee L;Jeep;SUV;Automatic
+159;Challenger;Dodge;Coupe;Manual
+160;Charger;Dodge;Sedan;Automatic
+161;Durango;Dodge;SUV;Automatic
+162;RAM 1500;RAM;Pickup;Automatic
+163;RAM 2500;RAM;Pickup;Automatic
+164;RAM 3500;RAM;Pickup;Automatic
+165;CT4;Cadillac;Sedan;Automatic
+166;CT5;Cadillac;Sedan;Automatic
+167;Escalade;Cadillac;SUV;Automatic
+168;XT4;Cadillac;SUV;Automatic
+169;XT5;Cadillac;SUV;Automatic
+170;XT6;Cadillac;SUV;Automatic
+171;Continental;Lincoln;Sedan;Automatic
+172;Aviator;Lincoln;SUV;Automatic
+173;Navigator;Lincoln;SUV;Automatic
+174;Corsair;Lincoln;SUV;Automatic
+175;Nautilus;Lincoln;SUV;Automatic
+176;G70;Genesis;Sedan;Automatic
+177;G80;Genesis;Sedan;Automatic
+178;G90;Genesis;Sedan;Automatic
+179;GV70;Genesis;SUV;Automatic
+180;GV80;Genesis;SUV;Automatic
+181;Cooper;MINI;Hatchback;Manual
+182;Cooper S;MINI;Hatchback;Manual
+183;Clubman;MINI;Wagon;Automatic
+184;Countryman;MINI;SUV;Automatic
+185;Cooper SE;MINI;Hatchback;Automatic
+186;Outlander;Mitsubishi;SUV;Automatic
+187;Outlander Sport;Mitsubishi;SUV;Automatic
+188;Eclipse Cross;Mitsubishi;SUV;Automatic
+189;Mirage;Mitsubishi;Hatchback;Automatic
+190;Mirage G4;Mitsubishi;Sedan;Automatic
+191;Encore;Buick;SUV;Automatic
+192;Envision;Buick;SUV;Automatic
+193;Enclave;Buick;SUV;Automatic
+194;Regal;Buick;Sedan;Automatic
+195;Lucerne;Buick;Sedan;Automatic
+196;C-HR;Toyota;SUV; Automatic
+197;86;Toyota;Coupe;Manual
+198;Land Cruiser;Toyota;SUV;Automatic
+199;Veloster N;Hyundai;Hatchback;Manual
+200;Ioniq 5;Hyundai;SUV;Automatic
